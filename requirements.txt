@@ -1,1 +1,6 @@
 Django>=4.2,<5.0
+gunicorn
+django
+dj-database-url
+whitenoise
+psycopg2-binary
